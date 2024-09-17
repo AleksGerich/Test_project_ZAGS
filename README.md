@@ -1,7 +1,7 @@
 # Отчеты о проделанной работе
 
 Ссылка на требования с комментариями:
-https://docs.google.com/document/d/1eijfM_3o-JOoBCtwwHmO7nEZseGU4mgP/edit
+[Документ "Техническое задание ЗАГС рус"](https://docs.google.com/document/d/1eijfM_3o-JOoBCtwwHmO7nEZseGU4mgP/edit)
 
 Ссылка на чек-лист:
 https://docs.google.com/spreadsheets/d/1cvikrvGEThR6KvhBDhvP17X9CSjUGLOJ/edit?usp=drive_web&ouid=103415262573722840459&rtpof=true
